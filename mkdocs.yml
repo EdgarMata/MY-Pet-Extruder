@@ -1,11 +1,11 @@
-site_name: MY-RouterXL-CNC
+site_name: MY-Pet-Exturder
 
-site_url: "https://my-machines.pt/My-RouterXL-CNC/"
+site_url: "https://my-machines.pt/My-Pet-Exturder/"
 site_autor: "Edgar Mata"
 site_description: "Centro de conhecimento Gadget Plus.LDA"
 
 repo_name: "MY-Laser-CNC"
-repo_url: "https://github.com/EdgarMata/MY-RouterXL-CNC"
+repo_url: "https://github.com/EdgarMata/MY-Pet-Exturder"
 
 copyright: |
   &copy; 2024 <a href="https://my-machines.pt/" target="_blank" rel="noopener">Edgar Mata, LDA</a>

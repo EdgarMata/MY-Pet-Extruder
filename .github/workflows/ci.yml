@@ -1,4 +1,4 @@
-name: Ci MY-RouterXL-CNC
+name: Ci MY-Pet-Exturder
 on:
   push:
     branches:
